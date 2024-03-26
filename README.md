@@ -1,0 +1,2 @@
+# openai-translator
+OpenAI Translator
